@@ -11,7 +11,7 @@ Flow:
 
 ## Start Environment
 * Confluent Kafka
-* Kafka
+
 
 ```sh
 cd confluent-kafka
